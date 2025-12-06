@@ -11,41 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Information Systems, Federal University of Minas Gerais, 2026 (expected)
+* Electronics Technician, Technical College of Federal University of Minas Gerais, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-2025: Undergraduate Researcher
+  * FutureLab - DCC, UFMG
+  * Duties includes: Developing and implementing a Federated Learning system applied to Client Selection
+  * Supervisors: Antonio A. F. Loureiro and Pedro H. Barros
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2025: Undergraduate Teaching Assistant - Discrete Mathematics
+  * Federal University of Minas Gerais
+  * Duties included: Discrete mathematics tutoring, test applications and correction of practical assignments
+  * Supervisor: Antonio A. F. Loureiro
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2024: Undergraduate Teaching Assistant - Project to support PwD 
+  * Federal University of Minas Gerais
+  * Duties included: Mentoring for people with disabilities and classes in basic computer science subjects
+  * Supervisor: Seme Gebara Neto
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning Research
+* Data Analysis
+* Teamwork
+* Programming Languages and Frameworks
+  * Python, C, C++ and Matlab
+  * Flower, PyTorch
+* Languages
+  * Brazilian Portuguese (Native)
+  * English (B2)
+  * Spanish (A2)  
 
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Talks
 ======
@@ -59,6 +63,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
