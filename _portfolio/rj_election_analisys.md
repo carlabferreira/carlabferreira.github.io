@@ -1,6 +1,6 @@
 ---
 title: "Spatial Analysis of the 2022 State Deputy Election"
-excerpt: "Spatial Analysis of Voting Patterns for State Deputy in Rio de Janeiro (2022). This project was developed as a practical assignment for the Spatial Databases course at UFMG in the second semester of 2025. <br/><img src='/images/alfabetizacao_rj_perc.png' alt='Percentage of literate people by municipality' width='600'> <br/> Image: Approximate Percentage of literate people by municipality"
+excerpt: "Spatial Analysis of Voting Patterns for State Deputy in Rio de Janeiro (2022). This project was developed as a practical assignment for the Spatial Databases course at UFMG in the second semester of 2025. <br/><img src='/images/alfabetizacao_rj_perc.png' alt='Percentage of literate people by municipality' width='600'> <br/> Image: Approximate Percentage of literate people by municipality in the state of Rio de Janeiro"
 collection: portfolio
 ---
 
@@ -11,7 +11,7 @@ Code and results available at [https://github.com/carlabferreira/RJ_election_ana
 
 <img src='/images/alfabetizacao_rj_perc.png' alt='Percentage of literate people by municipality' width='600'>
 
-Image: Approximate Percentage of literate people by municipality
+Image: Approximate Percentage of literate people by municipality in the state of Rio de Janeiro
 
 ### Team Members:
 - Ana Luisa Messias Ferreira Mendes
@@ -20,12 +20,16 @@ Image: Approximate Percentage of literate people by municipality
 - Filipe Mauro da Terra Caldeira
 
 ### Data Sources:
-- Election Data: TSE Open Data Portal (Superior Electoral Court) - https://dadosabertos.tse.jus.br/dataset/resultados-2022
-- Literacy: 2022 CENSUS (IBGE) - https://www.ibge.gov.br/estatisticas/sociais/saude/22827-censo-demografico-2022.html?=&t=downloads
-- Public Security Statistics: GOV Open Data - https://dados.gov.br/dados/conjuntos-dados/isp-estatisticas-de-seguranca-publica (Monthly historical series by municipality since 2014)
-- Shapefiles: GOV Open Data - https://dados.gov.br/dados/conjuntos-dados/malha-geometrica-dos-municipios-brasileiros (Geometric mesh of Rio de Janeiro municipalities in 2010)
+- Election Data: TSE Open Data Portal (Superior Electoral Court) - [https://dadosabertos.tse.jus.br/dataset/resultados-2022](https://dadosabertos.tse.jus.br/dataset/resultados-2022)
+- Literacy: 2022 CENSUS (IBGE) - [https://www.ibge.gov.br/estatisticas/sociais/saude/22827-censo-demografico-2022](https://www.ibge.gov.br/estatisticas/sociais/saude/22827-censo-demografico-2022.html?=&t=downloads)
+- Public Security Statistics: GOV Open Data - [https://dados.gov.br/dados/conjuntos-dados/isp-estatisticas-de-seguranca-publica](https://dados.gov.br/dados/conjuntos-dados/isp-estatisticas-de-seguranca-publica) (Monthly historical series by municipality since 2014)
+- Shapefiles: GOV Open Data - [https://dados.gov.br/dados/conjuntos-dados/malha-geometrica-dos-municipios-brasileiros](https://dados.gov.br/dados/conjuntos-dados/malha-geometrica-dos-municipios-brasileiros) (Geometric mesh of Rio de Janeiro municipalities in 2010)
 
 ### Some of the conducted analyses include:
 - Comparison between politically aligned groups
 - Regionalized spatial autocorrelation
 - Correlation between candidate votes and public security data
+
+### Technologies Used:
+- Python, GeoSQL, PostgreSQL + PostGIS, QGIS
+- The conceptual database schema was designed using OMTG (Object-Modeling Technique for Geographic Applications)
