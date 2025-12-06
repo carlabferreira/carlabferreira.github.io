@@ -3,6 +3,8 @@
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
+🔗 My page: [carlabferreira.github.io/](https://carlabferreira.github.io/)
+
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
