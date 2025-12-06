@@ -18,7 +18,7 @@ Work experience
 ======
 * 2024-2025: Undergraduate Researcher
   * FutureLab - DCC, UFMG
-  * Duties includes: Developing and implementing a Federated Learning system applied to Client Selection
+  * Duties includes: Developing and implementing a Federated Learning technique applied to Client Selection
   * Supervisors: Antonio A. F. Loureiro and Pedro H. Barros
 
 * Fall 2025: Undergraduate Teaching Assistant - Discrete Mathematics
