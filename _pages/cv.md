@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* 2024-2025: Undergraduate Researcher
-  * FutureLab - DCC, UFMG
+* 2024-2026: Undergraduate Researcher
+  * FutureLab (DCC, UFMG) and Hub de Inteligência Artificial e Arquiteturas Cognitivas (H.IAAC, Unicamp)
   * Duties includes: Developing and implementing a Federated Learning technique applied to Client Selection
-  * Supervisors: Antonio A. F. Loureiro and Pedro H. Barros
+  * Supervisors: Antonio A. F. Loureiro and Pedro H. S. S. Barros
 
 * Fall 2025: Undergraduate Teaching Assistant - Discrete Mathematics
   * Federal University of Minas Gerais
